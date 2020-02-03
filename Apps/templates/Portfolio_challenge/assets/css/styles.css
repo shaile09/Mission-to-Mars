@@ -11,6 +11,12 @@ h6 {
     font-weight: 100;
 }
 
+body {
+    margin: 5px;
+    padding-bottom: 70px;
+    background-color: darkgray;!important;
+  }
+  
 hr {
     border-color: #fff;
     margin-top: 2.5rem;
